@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "namedtraders",
+  "version": "${version}",
+  "name": "Named Traders",
+  "description": "Naming wandering traders or their llamas prevents them from despawning.",
+  "authors": [
+    "Roundaround"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/roundaround-named-traders",
+    "sources": "https://github.com/Roundaround/mc-fabric-named-traders",
+    "issues": "https://github.com/Roundaround/mc-fabric-named-traders/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/namedtraders/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.roundaround.namedtraders.NamedTradersMod"
+    ]
+  },
+  "mixins": [
+    "namedtraders.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  }
+}
