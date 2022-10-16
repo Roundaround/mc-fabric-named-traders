@@ -14,7 +14,6 @@ public abstract class TraderLlamaEntityMixin {
     TraderLlamaEntity self = ((TraderLlamaEntity) (Object) this);
     if (self.hasCustomName()) {
       info.setReturnValue(false);
-      return;
     }
   }
 }
