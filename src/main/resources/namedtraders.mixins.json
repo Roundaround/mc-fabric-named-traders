@@ -4,7 +4,8 @@
   "package": "me.roundaround.namedtraders.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "PassiveEntityMixin"
+    "TraderLlamaEntityMixin",
+    "WanderingTraderEntityMixin"
   ],
   "client": [],
   "server": [],
