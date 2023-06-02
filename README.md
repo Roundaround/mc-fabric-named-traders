@@ -1,7 +1,7 @@
 # Roundaround's Named Traders
 
 <img src="https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MC-1.19-%23313e51?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MC-1.20%20|%201.19--1.19.4-%23313e51?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Side-Server-%23313e51?style=for-the-badge"/>
 
 Naming wandering traders or their llamas prevents them from despawning.
