@@ -10,7 +10,7 @@ allay {
   homepage.set("https://modrinth.com/mod/named-traders")
   repository.set("https://github.com/Roundaround/mc-fabric-named-traders")
   issues.set("https://github.com/Roundaround/mc-fabric-named-traders/issues")
-  logoFile.set("assets/namedtraders/icon.png")
+  logoFile.set("assets/namedtraders/banner.png")
 
   modrinth {
     projectId.set("named-traders")
