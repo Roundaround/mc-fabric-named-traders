@@ -1,11 +1,11 @@
 ![Named Traders](https://imgur.com/4NHAgzC.png)
 
-![](https://img.shields.io/badge/Loader-Fabric%20|%20NeoForge%20|%20Forge-%23313e51?style=for-the-badge)
-![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19-%23313e51?style=for-the-badge)
-![](https://img.shields.io/badge/Side-Server-%23313e51?style=for-the-badge)
+![](https://img.shields.io/badge/Loader-Fabric%20|%20NeoForge%20|%20Forge-313e51?style=for-the-badge)
+![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19-313e51?style=for-the-badge)
+![](https://img.shields.io/badge/Side-Server-313e51?style=for-the-badge)
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/named-traders?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/named-traders)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Roundaround/mc-fabric-named-traders?style=flat&logo=github)](https://github.com/Roundaround/mc-fabric-named-traders)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Roundaround/mc-named-traders?style=flat&logo=github)](https://github.com/Roundaround/mc-named-traders)
 
 [![Support me on Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular-alt_vector.svg)](https://ko-fi.com/roundaround)
 

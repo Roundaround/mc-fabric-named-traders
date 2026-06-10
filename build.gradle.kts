@@ -8,8 +8,8 @@ allay {
   authors.set(listOf("Roundaround"))
   license.set("MIT")
   homepage.set("https://modrinth.com/mod/named-traders")
-  repository.set("https://github.com/Roundaround/mc-fabric-named-traders")
-  issues.set("https://github.com/Roundaround/mc-fabric-named-traders/issues")
+  repository.set("https://github.com/Roundaround/mc-named-traders")
+  issues.set("https://github.com/Roundaround/mc-named-traders/issues")
   logoFile.set("assets/namedtraders/banner.png")
 
   modrinth {
